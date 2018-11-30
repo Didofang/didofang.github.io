@@ -1,1 +1,2 @@
-ddf
+this is my blog
+welcome
