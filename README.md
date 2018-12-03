@@ -34,6 +34,8 @@ git branch -d dev删除分支
 
 git push -u origin master
 
+"dev"
+
 git remote rm origin
 git remote add origin git@github.com:Didofang/didofang.github.io.git
 删除之后add
