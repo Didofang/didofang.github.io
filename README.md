@@ -27,7 +27,10 @@ git checkout -- readme.txt丢弃工作区的修改
 
 git checkout -b dev创建dev分支
 git checkout master
-
+git branch查看所有分支
+cat readme.md 查看文件内容
+git merge dev合并分支
+git branch -d dev删除分支
 
 git push -u origin master
 
