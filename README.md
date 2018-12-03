@@ -18,8 +18,14 @@ git log
 git log --pretty=oneline
 git reset --hard HEAD^回退版本
 git reset --hard commitId 回到指定版本
-git redlog
+git reset HEAD readme.txt 指定文件版本
 
+
+git redlog操作记录
+
+git checkout -- readme.txt丢弃工作区的修改
+
+git checkout -b dev创建dev分支
 
 
 
