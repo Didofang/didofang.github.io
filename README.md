@@ -14,6 +14,13 @@ test reset
 git add .
 git commit -m ''
 git push
+git log 
+git log --pretty=oneline
+git reset --hard HEAD^回退版本
+git reset --hard commitId 回到指定版本
+git redlog
+
+
 
 
 git push -u origin master
