@@ -26,7 +26,7 @@ git redlog操作记录
 git checkout -- readme.txt丢弃工作区的修改
 
 git checkout -b dev创建dev分支
-
+git checkout master
 
 
 git push -u origin master
